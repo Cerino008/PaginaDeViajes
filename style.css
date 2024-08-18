@@ -94,10 +94,12 @@
 }
 .places h2{
     color: #ffffff;
-    font-size: 35px;
+    font-size: 30px;
     letter-spacing: 3px;
     border-radius: 1px;
-    padding: 30px 30px;
+    padding: 25px 25px;
+    margin: 2px;
+    margin-bottom: unset;
     background-color: #000000c9;
 }
 .places a{
@@ -133,20 +135,77 @@
     text-decoration: underline;
     transition: 0.4s;
 }
+
+
+
 .servi h1{
     text-align: center;
-    margin-top: 50px;
+    padding-top: 20px;
     font-size: 50px;
+    color: #ffffff;
     
 }
 .servi p{
     text-align: center;
-    color: #000;
+    color: #ffffff;
     font-size: 20px;
 }
-.servi-in ol li h2{
+
+.bloque {
+    display: inline-flex;
     text-align: center;
+    
+
 }
-.servi-in ol li p{
+.bloque li{
+    color: #ffffff;
+    background-color: #000000c9;
+    width: 200px;
+    margin-bottom: 20px;
+    margin-left: 350px;
+    border-radius: 15%;
+}
+.body2{
+    background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)), url(assets/turtle.jpg);
+    background-position: center;
+    background-size: 100%;
+    align-items: center;
+}
+
+
+.presentacion h1{
     text-align: center;
+    padding-top: 20px;
+    font-size: 50px;
+    color: #ffffff;
 }
+.presentacion p{
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+}
+.lugar{
+    display: inline-flex;
+    text-align: center;
+    padding-top: 20px;
+}
+.lugar li{
+    color: #ffffff;
+    background-color: #000000c9;
+    width: 210px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+.lugar li h2{
+    font-size: 27px;
+}
+.body3{
+    background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)), url(assets/turtle.jpg);
+    background-position: center;
+    background-size: 100%;
+    align-items: center;
+}
+
+
+
