@@ -20,7 +20,7 @@
     background-color: #000000c9;
     width: 210px;
     margin-bottom: 20px;
-    margin-left: 200px;
+    align-items: center;
     border-radius: 10px;
 }
 .lugar li h2{
