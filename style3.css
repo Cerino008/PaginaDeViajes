@@ -1,0 +1,34 @@
+
+.presentacion h1{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 50px;
+    color: #ffffff;
+}
+.presentacion p{
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+}
+.lugar{
+    display: inline-flex;
+    text-align: center;
+    padding-top: 20px;
+}
+.lugar li{
+    color: #ffffff;
+    background-color: #000000c9;
+    width: 210px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+.lugar li h2{
+    font-size: 27px;
+}
+.body3{
+    background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)), url(assets/turtle.jpg);
+    background-position: center;
+    background-size: 100%;
+    align-items: center;
+}
