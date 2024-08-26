@@ -1,34 +1,15 @@
-.servi h1{
-    text-align: center;
-    padding-top: 20px;
-    font-size: 50px;
-    color: #ffffff;
-    
-}
-.servi p{
-    text-align: center;
-    color: #ffffff;
-    font-size: 20px;
-}
 
-.bloque {
-    display: inline-flex;
-    text-align: center;
-    margin-top: 120px;
-    
-
-}
-.bloque li{
-    color: #ffffff;
-    background-color: #000000c9;
-    width: 200px;
-    margin-bottom: 20px;
-    margin-left: 350px;
-    border-radius: 15%;
-}
 .body2{
-    background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)), url(assets/turtle.jpg);
-    background-position: center;
-    background-size: 100%;
-    align-items: center;
+    background-color: #6792577d;
+}
+.texto{
+    padding-bottom: 50px;
+    text-align: center;
+}
+.texto h1{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.card-group{
+    padding-bottom: 70px;
 }
